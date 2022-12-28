@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/zhangsen/AndroidStudioProjects/MyApplication/app/.cxx/Debug/nv4q395r/x86",
+  "command": "/Users/zhangsen/project/android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --gcc-toolchain=/Users/zhangsen/project/android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/zhangsen/project/android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmyapplication_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/myapplication.dir/native-lib.cpp.o -c /Users/zhangsen/AndroidStudioProjects/MyApplication/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/zhangsen/AndroidStudioProjects/MyApplication/app/src/main/cpp/native-lib.cpp"
+}
+]

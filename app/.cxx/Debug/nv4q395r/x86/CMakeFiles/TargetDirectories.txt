@@ -1,0 +1,3 @@
+/Users/zhangsen/AndroidStudioProjects/MyApplication/app/.cxx/Debug/nv4q395r/x86/CMakeFiles/rebuild_cache.dir
+/Users/zhangsen/AndroidStudioProjects/MyApplication/app/.cxx/Debug/nv4q395r/x86/CMakeFiles/edit_cache.dir
+/Users/zhangsen/AndroidStudioProjects/MyApplication/app/.cxx/Debug/nv4q395r/x86/CMakeFiles/myapplication.dir
